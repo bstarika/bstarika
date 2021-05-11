@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Breanna!
+- 👋 Hi... I’m Breanna!
 - 👀 I’m looking for: A full-time developer position! I currently live in Denver, but I am open to relocating and/or remote work. I prefer back-end programming.
 - 📫 How to reach me: starikabreanna@gmail.com
 
